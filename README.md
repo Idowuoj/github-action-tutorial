@@ -1,0 +1,1 @@
+# This is a CI test to configure Github Action

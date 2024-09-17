@@ -1,0 +1,13 @@
+{
+      "name": "guess-the-number",
+      "version": "1.0.0",
+      "description": "A simple guess the number game",
+      "main": "game.js",
+      "scripts": {
+            "test": "jest"
+      },
+      "dependencies": {},
+      "devDependencies": {
+            "jest": "^27.0.6"
+      }
+}
